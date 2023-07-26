@@ -1,0 +1,18 @@
+/*  */
+body {
+  background-color: #eeeced;
+}
+
+/* Common Css */
+.D-bannar {
+  background-image: url("https://icms-image.slatic.net/images/ims-web/d9a9d4c8-b10b-4439-8e0e-bdffd5f1c85a.jpg");
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
