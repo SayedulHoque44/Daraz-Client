@@ -9,6 +9,7 @@ export default {
       colors: {
         'D-gry': '#eeeced',
         'D-primary': '#f57224',
+        'D-darkGray': '#424242',
       },
     }
   },

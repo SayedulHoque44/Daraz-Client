@@ -12,6 +12,9 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+.swiper-pagination-bullet-active {
+  background-color: #f57224;
+}
 
 @tailwind base;
 @tailwind components;
